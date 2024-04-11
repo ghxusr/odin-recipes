@@ -6,9 +6,18 @@ body {
     text-align: center;
 }
 
-.recipe-list {
+ul,
+ol {
     background-color: green;
     color: yellow;
     font-family: Trebuchet MS, Times New Roman, Georgia, sans-serif;
     text-align: left;
+}
+
+h1,
+h2,
+h3 {
+    color: yellow;
+    font-weight: bolder;
+    font-family: Garamond, Courier New, Brush Script MT, sans-serif;
 }
