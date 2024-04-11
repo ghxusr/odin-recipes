@@ -1,0 +1,14 @@
+body {
+    background-color: black;
+    color: white;
+    font-weight: bold;
+    font-family: Ariel, Verdana, Tahoma, sans-serif;
+    text-align: center;
+}
+
+.recipe-list {
+    background-color: green;
+    color: yellow;
+    font-family: Trebuchet MS, Times New Roman, Georgia, sans-serif;
+    text-align: left;
+}
