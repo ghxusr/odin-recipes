@@ -4,6 +4,9 @@ body {
     font-weight: bold;
     font-family: Ariel, Verdana, Tahoma, sans-serif;
     text-align: center;
+    margin: 10px auto;
+    padding: 15px;
+    
 }
 
 ul,
@@ -12,6 +15,8 @@ ol {
     color: yellow;
     font-family: Trebuchet MS, Times New Roman, Georgia, sans-serif;
     text-align: left;
+    padding: 20px;
+    margin: 15px auto;
 }
 
 h1,
