@@ -1,5 +1,5 @@
 # odin-recipes
-Basic recipe site displaying HTML knowledge gained so far.
+Basic recipe site displaying HTML and CSS knowledge gained so far.
 
 Image Credits 
 
