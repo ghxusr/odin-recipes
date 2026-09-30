@@ -1,0 +1,28 @@
+body {
+    background-color: dodgerblue;
+    font-family: "Courier New", "Times New Roman", sans-serif;
+    text-align: center;
+}
+
+h1 {
+    text-align: center;
+    color: darkmagenta;
+    background-color: gold;
+}
+
+ul {
+    color: lawngreen;
+    background-color: orchid;
+}
+
+ol {
+    background-color: greenyellow;
+    color: maroon;
+}
+
+ul,
+ol {
+    padding: 10px;
+    display: block;
+    margin-left: 20px;
+}
