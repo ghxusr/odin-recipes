@@ -1,0 +1,18 @@
+body {
+    background-color: darkcyan;
+    font-family: "Courier New", "Times New Roman", sans-serif;
+}
+
+h1 {
+    text-align: center;
+    color: cornflowerblue;
+    background-color: darkred;
+}
+
+ul {
+    padding: 10px;
+    display: block;
+    margin-left: 20px;
+    color: aqua;
+    background-color: lightcoral;
+}
